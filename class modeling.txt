@@ -1,0 +1,36 @@
+Animal 
+-----------
++ name: string
++ species: string
++ age: int
+-----------
++ move()
++ sleep()
++ eat()
++ protect()
+
+
+Book
+-----------
++ title: string
++ publisher: string
++ genre: string
++ year: int 
+------------
++ read()
+
+
+Vehicle
+-------------
++ make: string
++ model: string
++ year: string
++ vin: string
+--------------
++ park()
++ reverse()
++ neutral()
++ drive()
++ manual ()
++ rightturn()
++ leftturn()
